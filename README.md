@@ -1,5 +1,5 @@
 ### Hi there 👋
-myPortfolio https://pheejung.github.io/myportfolio/
+myPortfolio https://pheejung.github.io/myportfolio
 <!--
 **Pheejung/Pheejung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
