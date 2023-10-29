@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 프론트,백엔드 신입 개발자 입니다. <br />
+🔭 프론트 개발자 입니다. <br />
 🌱 Portfolio : https://pheejung.github.io/myportfolio <br />
 💬 Email : gmlwjd2116@naver.com
 <!--
