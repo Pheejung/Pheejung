@@ -1,10 +1,9 @@
 ### Hi there 👋
 🔭 프론트 개발자 입니다. <br />
-🌱 Portfolio : https://pheejung.github.io/myportfolio <br />
-💬 Email : gmlwjd2116@naver.com
+💬 Email : gmlwjd2116@gmail.com
 <!--
 **Pheejung/Pheejung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🌱 Portfolio : https://pheejung.github.io/myportfolio <br />
 Here are some ideas to get you started:
 
 - 🔭
